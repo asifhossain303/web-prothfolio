@@ -23,6 +23,7 @@ color:orange;
   float: left;
   margin-left: 5%;
   padding-left: 2%;
+  padding-bottom: 20px;
 
 }
 .half-width img{
@@ -79,7 +80,9 @@ border-image-slice: 1;
 border-image: linear-gradient(180deg,rgb(1, 140, 247), rgb(29, 3, 175));
 border-image-slice: 1;
 }
+ 
 footer p{
   text-align: center;
-  font-size: 12px;
+  font-size: 20px;
+  height: 10px;
 }
